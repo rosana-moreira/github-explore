@@ -1,5 +1,5 @@
 # github-explore
-<h1> Descrição do Projeto</h1>
+<p lign="center"> Descrição do Projeto<p>
 <p align="center">Aplicação feita em React que consome a api disponibilizada pelo github.</p>
 
 <h1 align="center">
