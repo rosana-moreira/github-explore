@@ -1,11 +1,12 @@
 # github-explore
-# Descrição do Projeto
+<h1> Descrição do Projeto</h1>
 <p align="center">Aplicação feita em React que consome a api disponibilizada pelo github.</p>
 
 <h1 align="center">
   <img alt="logo" title="#logo" src="./assets/logo.png" />
 </h1>
-### Pré-requisitos
+
+# Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
